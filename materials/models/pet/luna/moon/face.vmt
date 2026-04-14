@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+   	"$basetexture" "models/pet/luna/moon/face"
+   	"$alphatest" "1"
+}
